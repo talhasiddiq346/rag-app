@@ -1,5 +1,7 @@
 # 📚 Open-Source RAG Application
 
+**Talha Siddiq** (b04-0923-0038) · **Ajwad Muhammad Waseem** (b04-0923-000004)
+
 **CS4106 – Foundations of Generative AI · Session 9 Activity**
 Built with **Groq · Sentence-Transformers · FAISS · Streamlit**
 

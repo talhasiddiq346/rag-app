@@ -104,6 +104,7 @@ with st.sidebar:
 
 # =============================== MAIN PAGE ===============================
 st.title("📚 Open-Source RAG Application")
+st.markdown("**Talha Siddiq** (b04-0923-0038) &nbsp;·&nbsp; **Ajwad Muhammad Waseem** (b04-0923-000004)")
 st.caption("CS4106 - Foundations of Generative AI · Groq · Sentence-Transformers · FAISS · Streamlit")
 
 with st.expander("How does RAG work?"):
