@@ -1,0 +1,11 @@
+# Open-Source RAG App - CS4106 Session 9
+# Tested with Python 3.12 / 3.13. Install with:  pip install -r requirements.txt
+streamlit>=1.40           # web UI
+groq>=0.20                # Groq LLM API client (free tier)
+sentence-transformers>=3.0  # all-MiniLM-L6-v2 embeddings (installs PyTorch)
+faiss-cpu>=1.9.0          # vector index (1.9+ has Windows wheels for Python 3.13)
+numpy>=1.26
+PyPDF2>=3.0               # PDF text extraction (handout library, used as fallback)
+pypdf>=5.0                # maintained successor of PyPDF2 - better tables/columns
+python-docx>=1.1          # DOCX text extraction
+python-dotenv>=1.0        # optional: read GROQ_API_KEY from a .env file

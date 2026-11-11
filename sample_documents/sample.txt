@@ -1,0 +1,25 @@
+Indus Green Campus Initiative - Project Handbook (fictional sample document for testing the RAG app)
+
+1. Overview
+The Indus Green Campus Initiative is a student-led sustainability project started in March 2024 at a university campus in Karachi. The project is coordinated by the Green Society, a student club with 42 active members. Its mission is to cut the campus electricity bill by 30 percent by the end of 2026 while teaching students practical skills in renewable energy and data analysis. The faculty advisor of the project is Professor Sana Qureshi from the Department of Environmental Sciences.
+
+2. Solar Installation
+The first phase of the project installed 120 solar panels on the roof of the library building. Each panel is rated at 550 watts, giving the system a total capacity of 66 kilowatts. Installation was completed in September 2024 by a local contractor named BrightPath Energy. The panels produce about 290 kilowatt-hours of electricity on a typical sunny day. Excess energy is stored in a lithium iron phosphate battery bank with a capacity of 100 kilowatt-hours, which powers the library lights and computer lab for about four hours after sunset.
+
+3. Budget and Funding
+The total budget for phase one was 18 million Pakistani rupees. Sixty percent of the money came from the university administration, twenty five percent came from an alumni fundraising campaign called "Light the Library", and the remaining fifteen percent came from a grant awarded by a provincial clean-energy fund. The project team estimates that the solar system will pay for itself in about five and a half years through lower electricity bills.
+
+4. Water Conservation
+In January 2025 the initiative started a second programme focused on water. Low-flow taps were fitted in all washrooms of the main academic block, and a rainwater harvesting tank with a capacity of 25,000 litres was built behind the sports complex. The harvested water is used to irrigate the campus gardens during the monsoon and post-monsoon months. Early measurements show a 22 percent reduction in municipal water usage in the main academic block.
+
+5. Waste Management
+The Green Society runs a recycling drive every second Friday of the month. Students bring paper, plastic bottles and aluminium cans to collection points near the cafeteria. In the 2024-2025 academic year the drive collected 3.4 tonnes of recyclable material. Food waste from the cafeteria is turned into compost in two large compost bins near the botanical garden, and the compost is used by the gardening team.
+
+6. Data Dashboard
+Computer science students built a live energy dashboard that shows real-time solar production, battery charge and building consumption. The dashboard is written in Python and updates every five minutes using readings from smart meters. It is displayed on a screen in the library lobby so that visitors can see how much clean energy the campus is producing.
+
+7. Student Training
+Every semester the initiative offers a free six-week workshop called "Solar 101". The workshop covers how solar panels work, how to read an electricity bill, basic electrical safety and how to analyse energy data in spreadsheets. Around 60 students complete the workshop each semester and receive a certificate signed by the faculty advisor.
+
+8. Future Plans
+Phase two, planned for 2026, will add 80 more panels on the roof of the engineering block and install electric vehicle charging points in the staff parking area. The team also hopes to replace all remaining fluorescent tubes on campus with LED lights. Students interested in joining the Green Society can sign up at the club stall during orientation week or email the club coordinator.
